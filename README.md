@@ -109,7 +109,7 @@ We can find the IP address by navigating to:
 - When you connect you should be met with this screen
    -To begin installing Active Directory click on "add roles and files"
   
-  ![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
+![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
 
 - Next we will be met with the activation wizard we can click next on all prompt until we get to the "Server roles" secction
 
