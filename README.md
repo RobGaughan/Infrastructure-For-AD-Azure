@@ -105,16 +105,20 @@ The login credential will be Username: LabADMIN Password: LabPassword123 from ea
 
 ![image](https://github.com/user-attachments/assets/e2ed221a-4c8e-44bc-b203-4bfc1720ae35)
 
-When you connect you should be met the this screen:
-![image](https://github.com/user-attachments/assets/7925871f-0282-4e5b-a517-ed33bbcd5fc4)
+When you connect you should be met with this screen
+To begin installing Active Directory click on "add roles and files"
+![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
 
+Next we will be met with the activation wizard we can click next on all prompt until we get to the "Server roles" secction
 ![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
 
-![image](https://github.com/user-attachments/assets/2a15d33b-4f5d-44fc-a93f-6c07a8c24a66)
 
+On the "Server roles" secction check the highlighted "Active Directory Domain Services" box accept any addtional prompts and hit next until you get to "Conformation"
 ![image](https://github.com/user-attachments/assets/e87b07f4-50f5-466b-9f5f-048fe84dc7e8)
 
+Check the "Restart the destination server automatically if required" and click install
 ![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
+
 
 ![image](https://github.com/user-attachments/assets/b0fe3318-9eee-4a6e-843f-86179d20f2f5)
 
