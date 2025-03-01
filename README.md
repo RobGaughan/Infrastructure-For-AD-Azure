@@ -98,6 +98,7 @@ First we must RDP into Domain-Controller-1 to do that we need to find its public
 
 We can find the IP address by navigating to: 
  - Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings
+   
 ![image](https://github.com/user-attachments/assets/36c65ae5-cd40-42f9-ae4a-7f5e4c3c7b91)
 
 - Next we will RDP in using Remote Desktop Connection using the public IP 
@@ -107,7 +108,8 @@ We can find the IP address by navigating to:
 
 - When you connect you should be met with this screen
    -To begin installing Active Directory click on "add roles and files"
-![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
+  
+  ![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
 
 - Next we will be met with the activation wizard we can click next on all prompt until we get to the "Server roles" secction
 
