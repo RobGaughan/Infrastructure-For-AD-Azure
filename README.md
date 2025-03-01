@@ -86,7 +86,10 @@ After you verify then "click "Review + create" and proceed to create it
 ![image](https://github.com/user-attachments/assets/b015a682-dffa-485a-be09-c9170248d818)
 
 
+Set the VM to have a static IP:
+Go to Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings --> NIC --> IPconfig --> Private IP address settings --> select static and save 
 
+refer to the gif below
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
 
@@ -105,6 +108,9 @@ After you verify then "click "Review + create" and proceed to create it
 ![image](https://github.com/user-attachments/assets/0c471f93-38a7-4c8c-8278-e8927ae05579)
 
 ![image](https://github.com/user-attachments/assets/e2aba41f-d5a8-4205-92d8-6dc92a67031e)
+
+- uncheck "Create DNS delegation
+![image](https://github.com/user-attachments/assets/0fc79da9-cec5-44f6-80a5-3cbca26a7579)
 
 
 
