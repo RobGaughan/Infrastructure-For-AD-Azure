@@ -5,8 +5,13 @@
 </p>
 
 <h1>Deploying Hybrid Azure Active Directory with MFA in Azure</h1>
+I'n this lab we will be installing On-Prem Active Directory using microsoft azure. 
 
+We will install nessary Virtual networks and Virtual machines as well as installing Active directory. 
 
+Then we will create a client virtual machine that will act as an end user.  
+We will Also Create a group policy and Restrict software and admin privlages as well as adding a custom wallpaper to users accounts  
+lastly we will enable Multi-Factor Authentication (MFA)
 
 <h2>Video Demonstration</h2>
 
@@ -23,14 +28,16 @@
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 1. Create an Azure Virtual Network (VNet)
-2. Deploy a Windows Server VM 
-3. Install Active Directory 
-4. Create an Azure AD (Microsoft Entra ID) Tenant
-5. Enable Azure AD (Microsoft Entra ID)  Connect on the On-Prem VM
-6. Verify Sync Status
-7. Enable Multi-Factor Authentication (MFA)
-8. Set Conditional Access Policies
-9. Test Authentication
+2. Deploy a Windows Server/Domain controller VM 
+3. Install Active Directory
+4. Create users 
+5. Create  Client VM
+6. enable group policy
+7. Set Custom wallpaper for user
+8. Create a Software Restriction Policy
+9. Restrict Local Admin Rights
+10. Enable Multi-Factor Authentication (MFA)
+
 
 <h2>Deployment and Configuration Steps</h2>
 
