@@ -42,8 +42,9 @@ lastly we will enable Multi-Factor Authentication (MFA)
 
 ### 1. Create an Azure Virtual Network (VNet)
 - Navigate to Virtual Networks on Azure and click "create" as pictured below
-   
-![Pasted image 20250228191832](https://github.com/user-attachments/assets/e52b2502-33b0-4e63-bf2c-f8391ec1f44f)
+
+  
+![image](https://github.com/user-attachments/assets/32ef39ea-8bb9-493d-9e6d-512f20bc51af)
 
  
 - Click "Create new" and create a new resource group called "AD-Hybrid-lab" <br>
@@ -55,7 +56,7 @@ lastly we will enable Multi-Factor Authentication (MFA)
 > [!NOTE]
 > Take note *of your region in this case I'm keeping it East US we will reference this in the next steps*
 
-![Pasted image 20250228195212](https://github.com/user-attachments/assets/ec630dc3-11d7-4af7-b260-2ca4f212ee12)
+![image](https://github.com/user-attachments/assets/71ed9a7e-fa7e-4c61-9dc4-38bdade12583)
 
 
 
@@ -82,14 +83,16 @@ Configure the following in the highlighted areas in the picture below:
 > [!IMPORTANT]
 > Make sure the region matches the Vnet's region
 
-![Create a virtual machine - Microsoft Azure - portal azure com](https://github.com/user-attachments/assets/32a1c163-8d6e-40c5-bca9-704d3b8a028c)
+![image](https://github.com/user-attachments/assets/eb11886e-5833-4df9-86cd-c0c0dbf8724f)
+
 
 > [!IMPORTANT]
 > Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
 
 After you verify then "click "Review + create" and proceed to create it 
 
-![image](https://github.com/user-attachments/assets/b015a682-dffa-485a-be09-c9170248d818)
+![image](https://github.com/user-attachments/assets/f39c9c10-9492-4f8b-8b9c-6dee3e2e3825)
+
 
 
 Set the VM to have a static IP to do that we must do the following:
