@@ -38,7 +38,7 @@
 ![Pasted image 20250228191832](https://github.com/user-attachments/assets/e52b2502-33b0-4e63-bf2c-f8391ec1f44f)
 
 
-Navigate to Virtual Networks and click create as pictured above
+Navigate to Virtual Networks on Azure and click create as pictured above
 
 ![Pasted image 20250228195212](https://github.com/user-attachments/assets/ec630dc3-11d7-4af7-b260-2ca4f212ee12)
 
