@@ -36,7 +36,6 @@ lastly we will enable Multi-Factor Authentication (MFA)
 7. Set Custom wallpaper for user
 8. Create a Software Restriction Policy
 9. Restrict Local Admin Rights
-10. Enable Multi-Factor Authentication (MFA)
 
 
 <h2>Deployment and Configuration Steps</h2>
