@@ -145,6 +145,12 @@ We can find the IP address by navigating to:
 
 ![image](https://github.com/user-attachments/assets/5475c2e7-8c06-4af0-a8de-ee18385c9231)
 
+- Click next until you get to Prerequisites Check and click install
+   - After installtion the VM will restart and you will loose the RDP connection momentarily
+      
+![image](https://github.com/user-attachments/assets/c9b03c31-f37f-48c9-8f51-f09bb620aff4)
+
+
 
 
 
