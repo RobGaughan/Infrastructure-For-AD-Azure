@@ -82,6 +82,9 @@ Configure the following in the highlighted areas in the picture below:
 > [!IMPORTANT]
 > Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
 
-![image](https://github.com/user-attachments/assets/cf2b4ccf-56f8-4665-aee3-58a7526f64af)
+After you verify then "click "Review + create" and proceed to create it 
+
+![image](https://github.com/user-attachments/assets/b015a682-dffa-485a-be09-c9170248d818)
+
 
 
