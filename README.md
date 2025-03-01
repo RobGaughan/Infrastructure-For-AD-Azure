@@ -116,7 +116,9 @@ We can find the IP address by navigating to:
 ![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
 
 
- - On the "Server roles" secction check the highlighted "Active Directory Domain Services" box accept any addtional prompts and hit next until you get to "Confirmation"
+ - On the "Server roles" section:
+    -  check the highlighted "Active Directory Domain Services" box
+    -  accept any addtional prompts and hit next until you get to "Confirmation"
 
 ![image](https://github.com/user-attachments/assets/e87b07f4-50f5-466b-9f5f-048fe84dc7e8)
 
