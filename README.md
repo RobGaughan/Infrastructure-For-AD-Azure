@@ -90,3 +90,27 @@ After you verify then "click "Review + create" and proceed to create it
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
 
+![image](https://github.com/user-attachments/assets/7925871f-0282-4e5b-a517-ed33bbcd5fc4)
+
+![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
+
+![image](https://github.com/user-attachments/assets/2a15d33b-4f5d-44fc-a93f-6c07a8c24a66)
+
+![image](https://github.com/user-attachments/assets/e87b07f4-50f5-466b-9f5f-048fe84dc7e8)
+
+![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
+
+![image](https://github.com/user-attachments/assets/b0fe3318-9eee-4a6e-843f-86179d20f2f5)
+
+![image](https://github.com/user-attachments/assets/0c471f93-38a7-4c8c-8278-e8927ae05579)
+
+![image](https://github.com/user-attachments/assets/e2aba41f-d5a8-4205-92d8-6dc92a67031e)
+
+
+
+
+
+
+
+
+
