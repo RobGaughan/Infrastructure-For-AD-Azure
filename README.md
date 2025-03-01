@@ -94,6 +94,18 @@ Refer to the gif below:
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
 ### 3. Install Active Directory 
+First we must RDP into Domain-Controller-1 to do that we need to find its public IP address
+
+We can find the IP address by navigating to: 
+ - Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings
+![image](https://github.com/user-attachments/assets/36c65ae5-cd40-42f9-ae4a-7f5e4c3c7b91)
+
+Next we will RDP in using Remote Desktop Connection using the public IP 
+The login credential will be Username: LabADMIN Password: LabPassword123 from earlier
+
+![image](https://github.com/user-attachments/assets/e2ed221a-4c8e-44bc-b203-4bfc1720ae35)
+
+When you connect you should be met the this screen:
 ![image](https://github.com/user-attachments/assets/7925871f-0282-4e5b-a517-ed33bbcd5fc4)
 
 ![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
