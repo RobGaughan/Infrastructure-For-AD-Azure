@@ -1,5 +1,4 @@
-# Hybrid-Azure-Active-Directory-with-MFA
-
+# Deploying Hybrid Azure Active Directory with MFA in Azure
 
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
@@ -24,7 +23,7 @@
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 1. Create an Azure Virtual Network (VNet)
-2. Deploy a Windows Server VM and place it in the Vnet
+2. Deploy a Windows Server VM 
 3. Install Active Directory 
 4. Create an Azure AD (Microsoft Entra ID) Tenant
 5. Enable Azure AD (Microsoft Entra ID)  Connect on the On-Prem VM
