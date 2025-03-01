@@ -113,10 +113,11 @@ Next we will be met with the activation wizard we can click next on all prompt u
 ![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
 
 
-On the "Server roles" secction check the highlighted "Active Directory Domain Services" box accept any addtional prompts and hit next until you get to "Conformation"
+ - On the "Server roles" secction check the highlighted "Active Directory Domain Services" box accept any addtional prompts and hit next until you get to "Confirmation"
+
 ![image](https://github.com/user-attachments/assets/e87b07f4-50f5-466b-9f5f-048fe84dc7e8)
 
-Check the "Restart the destination server automatically if required" and click install
+ - Check the "Restart the destination server automatically if required" and click install
 ![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
 
 
