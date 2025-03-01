@@ -126,14 +126,21 @@ We can find the IP address by navigating to:
    
 ![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
 
+- Now we must promote this VM to domain controller to do that
+   - Select the flag icon on the top right of the screen and click on "Promote this server to a domain controller"
 
 ![image](https://github.com/user-attachments/assets/b0fe3318-9eee-4a6e-843f-86179d20f2f5)
 
+- Enter "exampledomain.com" into the root domain name
+
 ![image](https://github.com/user-attachments/assets/0c471f93-38a7-4c8c-8278-e8927ae05579)
+
+- Next choose a password for the Dirrectory Services Restore Mode
+   - I used: LabPassword123 to keep lab passwords consistent
 
 ![image](https://github.com/user-attachments/assets/e2aba41f-d5a8-4205-92d8-6dc92a67031e)
 
-- uncheck "Create DNS delegation
+- uncheck "Create DNS delegation" when met with this prompt
 ![image](https://github.com/user-attachments/assets/0fc79da9-cec5-44f6-80a5-3cbca26a7579)
 
 
