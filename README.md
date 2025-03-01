@@ -34,7 +34,7 @@
 
 <h2>Deployment and Configuration Steps</h2>
 
-### Create an Azure Virtual Network (VNet)
+### 1. Create an Azure Virtual Network (VNet)
 - Navigate to Virtual Networks on Azure and click "create" as pictured below
    
 ![Pasted image 20250228191832](https://github.com/user-attachments/assets/e52b2502-33b0-4e63-bf2c-f8391ec1f44f)
@@ -54,7 +54,7 @@
 
 
 
-### Deploy a Windows Server VM and place it in the Vnet
+### 2. Deploy a Windows Server VM and place it in the Vnet
 - Navigate to the Virtual machines page and click on create
   
 ![Pasted image 20250228195539](https://github.com/user-attachments/assets/8d6986e1-686c-4a5f-909c-57191158e23c)
@@ -86,13 +86,14 @@ After you verify then "click "Review + create" and proceed to create it
 ![image](https://github.com/user-attachments/assets/b015a682-dffa-485a-be09-c9170248d818)
 
 
-Set the VM to have a static IP:
+Set the VM to have a static IP to do that we must do the following:
+
 Go to Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings --> NIC --> IPconfig --> Private IP address settings --> select static and save 
 
-refer to the gif below
+Refer to the gif below: 
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
-
+### 3. Install Active Directory 
 ![image](https://github.com/user-attachments/assets/7925871f-0282-4e5b-a517-ed33bbcd5fc4)
 
 ![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
