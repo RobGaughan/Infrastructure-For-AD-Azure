@@ -100,16 +100,17 @@ We can find the IP address by navigating to:
  - Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings
 ![image](https://github.com/user-attachments/assets/36c65ae5-cd40-42f9-ae4a-7f5e4c3c7b91)
 
-Next we will RDP in using Remote Desktop Connection using the public IP 
-The login credential will be Username: LabADMIN Password: LabPassword123 from earlier
+- Next we will RDP in using Remote Desktop Connection using the public IP 
+   - The login credential will be Username: LabADMIN Password: LabPassword123 from earlier
 
 ![image](https://github.com/user-attachments/assets/e2ed221a-4c8e-44bc-b203-4bfc1720ae35)
 
-When you connect you should be met with this screen
-To begin installing Active Directory click on "add roles and files"
+- When you connect you should be met with this screen
+   -To begin installing Active Directory click on "add roles and files"
 ![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
 
-Next we will be met with the activation wizard we can click next on all prompt until we get to the "Server roles" secction
+- Next we will be met with the activation wizard we can click next on all prompt until we get to the "Server roles" secction
+
 ![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
 
 
@@ -118,6 +119,7 @@ Next we will be met with the activation wizard we can click next on all prompt u
 ![image](https://github.com/user-attachments/assets/e87b07f4-50f5-466b-9f5f-048fe84dc7e8)
 
  - Check the "Restart the destination server automatically if required" and click install
+   
 ![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
 
 
