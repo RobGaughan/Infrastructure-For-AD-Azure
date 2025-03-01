@@ -133,7 +133,8 @@ We can find the IP address by navigating to:
 
 - Enter "exampledomain.com" into the root domain name
 
-![image](https://github.com/user-attachments/assets/0c471f93-38a7-4c8c-8278-e8927ae05579)
+![image](https://github.com/user-attachments/assets/9659ddb9-675e-4da1-98bf-c6e1529ff0bd)
+
 
 - Next choose a password for the Dirrectory Services Restore Mode
    - I used: LabPassword123 to keep lab passwords consistent
@@ -141,7 +142,9 @@ We can find the IP address by navigating to:
 ![image](https://github.com/user-attachments/assets/e2aba41f-d5a8-4205-92d8-6dc92a67031e)
 
 - uncheck "Create DNS delegation" when met with this prompt
-![image](https://github.com/user-attachments/assets/0fc79da9-cec5-44f6-80a5-3cbca26a7579)
+
+![image](https://github.com/user-attachments/assets/5475c2e7-8c06-4af0-a8de-ee18385c9231)
+
 
 
 
