@@ -61,19 +61,27 @@
 ![Pasted image 20250228195539](https://github.com/user-attachments/assets/8d6986e1-686c-4a5f-909c-57191158e23c)
 
 Configure the following in the highlighted areas in the picture below:
-- In resource group:
+- resource group:
    - Select the "AD-Hybrid-lab" group
-- For the Virtual machine name:
+- Virtual machine name:
     - Name it "Domain-Controller-1"
  - Region
     - ***Select same region as the vnet from the previous step in my case it is East US***
 - Image:
    - select "Windows Server 2022 Datacenter: Azure Edition - x64 Gen2"
+- Size: 
+   - select "Standard_D4s_v3 - 4 vcpus, 16 GIB memory"
+- Username and password
+   - For lab purposes I chose Username: LabADMIN Password: LabPassword123
 
 > [!IMPORTANT]
 > Make sure the region matches the Vnet's region
 
 ![Create a virtual machine - Microsoft Azure - portal azure com](https://github.com/user-attachments/assets/32a1c163-8d6e-40c5-bca9-704d3b8a028c)
 
+> [!IMPORTANT]
+> Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
+
+![image](https://github.com/user-attachments/assets/cf2b4ccf-56f8-4665-aee3-58a7526f64af)
 
 
