@@ -27,6 +27,8 @@ lastly we will enable Multi-Factor Authentication (MFA)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
+![image](https://github.com/user-attachments/assets/9e656ee5-e745-4ed0-9934-9088ce27b3cc)
+
 1. Create an Azure Virtual Network (VNet)
 2. Deploy a Windows Server/Domain controller VM 
 3. Install Active Directory
