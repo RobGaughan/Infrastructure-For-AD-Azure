@@ -30,8 +30,8 @@ lastly we will enable Multi-Factor Authentication (MFA)
 1. Create an Azure Virtual Network (VNet)
 2. Deploy a Windows Server/Domain controller VM 
 3. Install Active Directory
-4. Create users 
-5. Create  Client VM
+4. Create  Client VM
+5. Create users
 6. enable group policy
 7. Set Custom wallpaper for user
 8. Create a Software Restriction Policy
@@ -159,8 +159,10 @@ We can find the IP address by navigating to:
       
 ![image](https://github.com/user-attachments/assets/c9b03c31-f37f-48c9-8f51-f09bb620aff4)
 
+### Create Client VM
+While we are waiting on the Domain-Controller-1 VM to restart this would be a good time to set up the client VM 
 
-
+![image](https://github.com/user-attachments/assets/442b6ccc-d2b7-4c64-b852-ded4a8109c55)
 
 
 
