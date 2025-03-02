@@ -170,7 +170,7 @@ Before we create the VM it is important to understand what we will be doing to s
 - This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM 
 
 **On the right/blue section:**
-- What we will be configuring our Domain-Controller-1 VM and soon to be Client-1 VM
+- What we will be configuring our Domain-Controller-1 VM and Client-1 VM
 
 Do do this configuration we will need to do the following steps:
 1. Configure a static IP on  Domain-Controller-1
