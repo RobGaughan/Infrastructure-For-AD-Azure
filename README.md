@@ -166,10 +166,11 @@ While we are waiting on the Domain-Controller-1 VM to restart this would be a go
 
 Before we create the VM it is important to understand what we will be doing to simplify this I created the diagram below
 
-**On the left/orange section:** Are the Azure defaults
+**On the left/orange section:** 
 - This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM 
 
-**On the right/blue section:** What we will be configuring our Domain-Controller-1 VM and soon to be Client-1 VM
+**On the right/blue section:**
+- What we will be configuring our Domain-Controller-1 VM and soon to be Client-1 VM
 
 Do do this configuration we will need to do the following steps:
 1. Configure a static IP on  Domain-Controller-1
