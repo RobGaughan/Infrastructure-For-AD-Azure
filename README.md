@@ -174,7 +174,7 @@ Do do this configuration we will need to do the following steps:
 1. Configure a static IP on  Domain-Controller-1
 2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server as well as joining it to the Active Directory Domain
 
-![image](https://github.com/user-attachments/assets/442b6ccc-d2b7-4c64-b852-ded4a8109c55)
+![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
 
 
 
