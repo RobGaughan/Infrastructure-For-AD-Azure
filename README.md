@@ -168,20 +168,25 @@ Set the VM to have a static IP to do that we must do the following:
 Go to Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings --> NIC --> IPconfig --> Private IP address settings --> select static and save 
 
 Refer to the gif below: 
+
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
 setting Client-1 DNS settings:
+
 ![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
 
 Restart VM for DNS settings to apply
+
 ![image](https://github.com/user-attachments/assets/1a4d4a8c-07cb-4020-87c3-e1a3754cb1b9)
 
 Disable firewall on Domain-Controller-1
+
 ![image](https://github.com/user-attachments/assets/797d96bb-6f3c-4394-a15a-c6c13d70d976)
 
 ![image](https://github.com/user-attachments/assets/a56da034-d9bd-4e29-b3aa-54a9d1d110c9)
 
 Make sure you tunr off Domain Profile, Private profile, and Public profile
+
 ![image](https://github.com/user-attachments/assets/1a201109-b571-4b7b-bb4e-0fbd9b0a4402)
 
 
