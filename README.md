@@ -173,6 +173,10 @@ Refer to the gif below:
 setting Client-1 DNS settings:
 ![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
 
+Restart VM for DNS settings to apply
+![image](https://github.com/user-attachments/assets/1a4d4a8c-07cb-4020-87c3-e1a3754cb1b9)
+
+
 
 
 
