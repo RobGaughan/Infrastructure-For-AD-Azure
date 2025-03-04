@@ -176,6 +176,14 @@ setting Client-1 DNS settings:
 Restart VM for DNS settings to apply
 ![image](https://github.com/user-attachments/assets/1a4d4a8c-07cb-4020-87c3-e1a3754cb1b9)
 
+Disable firewall on Domain-Controller-1
+![image](https://github.com/user-attachments/assets/797d96bb-6f3c-4394-a15a-c6c13d70d976)
+
+![image](https://github.com/user-attachments/assets/a56da034-d9bd-4e29-b3aa-54a9d1d110c9)
+
+Make sure you tunr off Domain Profile, Private profile, and Public profile
+![image](https://github.com/user-attachments/assets/1a201109-b571-4b7b-bb4e-0fbd9b0a4402)
+
 
 
 
