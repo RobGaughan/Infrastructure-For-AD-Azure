@@ -1,12 +1,10 @@
 # Deploying On Premises Active Directory using Azure
 
- with MFA in Azure
-
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Deploying Hybrid Azure Active Directory with MFA in Azure</h1>
+<h1>Deploying On Premises Active Directory using Azure</h1>
 I'n this lab we will be installing On-Prem Active Directory using microsoft azure. 
 
 We will install nessary Virtual networks and Virtual machines as well as installing Active directory. 
