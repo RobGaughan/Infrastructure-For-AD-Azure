@@ -1,4 +1,6 @@
-# Deploying Hybrid Azure Active Directory with MFA in Azure
+# Deploying On Premises Active Directory using Azure
+
+ with MFA in Azure
 
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
