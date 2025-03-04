@@ -210,6 +210,16 @@ Do do this configuration we will need to do the following steps:
 ![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
 
 
+Connect to Client-1 
+![image](https://github.com/user-attachments/assets/fac010a6-f9c2-40b7-af21-3e2544dd1d22)
+
+login using RDP 
+![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
+
+
+
+
+
 
 
 
