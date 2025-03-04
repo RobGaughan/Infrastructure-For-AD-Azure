@@ -33,8 +33,9 @@ Then we will create a client virtual machine that will act as an end user.
 2. Create a Windows Server VM
 3. Install Active Directory
 4. Promote Windows Server VM to a domain controller
-6. Create  Client VM
-7. Configure 
+6. Create Client VM
+7. Configure DNS settings
+8. Verify DNS settings on Client-1  
 
 
 <h2>Deployment and Configuration Steps</h2>
