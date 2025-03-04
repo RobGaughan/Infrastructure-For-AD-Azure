@@ -5,13 +5,13 @@
 </p>
 
 <h1>Deploying On Premises Active Directory using Azure</h1>
-I'n this lab we will be installing On-Prem Active Directory using microsoft azure. 
+In this lab we will be creating the infrastructure required to host an on premises deployment of Active Directory using Azure  
 
 We will install nessary Virtual networks and Virtual machines as well as installing Active directory. 
 
 Then we will create a client virtual machine that will act as an end user.  
-We will Also Create a group policy and Restrict software and admin privlages as well as adding a custom wallpaper to users accounts  
-lastly we will enable Multi-Factor Authentication (MFA)
+
+
 
 <h2>Video Demonstration</h2>
 
@@ -30,14 +30,11 @@ lastly we will enable Multi-Factor Authentication (MFA)
 ![image](https://github.com/user-attachments/assets/9e656ee5-e745-4ed0-9934-9088ce27b3cc)
 
 1. Create an Azure Virtual Network (VNet)
-2. Deploy a Windows Server/Domain controller VM 
+2. Create a Windows Server VM
 3. Install Active Directory
-4. Create  Client VM
-5. Create users
-6. enable group policy
-7. Set Custom wallpaper for user
-8. Create a Software Restriction Policy
-9. Restrict Local Admin Rights
+4. Promote Windows Server VM to a domain controller
+6. Create  Client VM
+7. Configure 
 
 
 <h2>Deployment and Configuration Steps</h2>
