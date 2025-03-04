@@ -164,6 +164,12 @@ We can find the IP address by navigating to:
 ### Create Client VM
 While we are waiting on the Domain-Controller-1 VM to restart this would be a good time to set up the client VM 
 
+![image](https://github.com/user-attachments/assets/da25b6b7-1b01-4144-bc9a-8060aa9b5223)
+
+![image](https://github.com/user-attachments/assets/bf057c79-9a3a-4804-a6f1-e1e9102313f8)
+
+
+
 #### Client VM DNS Configuration
 
 Before we create the VM it is important to understand what we will be doing to simplify this I created the diagram below
