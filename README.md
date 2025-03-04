@@ -163,16 +163,17 @@ While we are waiting on the Domain-Controller-1 VM to restart this would be a go
 
 ![image](https://github.com/user-attachments/assets/bf057c79-9a3a-4804-a6f1-e1e9102313f8)
 
-
-
-![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
-
 Set the VM to have a static IP to do that we must do the following:
 
 Go to Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings --> NIC --> IPconfig --> Private IP address settings --> select static and save 
 
 Refer to the gif below: 
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
+
+setting Client-1 DNS settings:
+![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
+
+
 
 
 #### Client VM DNS Configuration
