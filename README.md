@@ -1,8 +1,9 @@
 # Preparing infrastructure for Active Directory in Azure
 
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
 
-
-![AD-heading-image-portfolio-4](https://github.com/user-attachments/assets/12f57b00-a011-43c8-92a2-28c74c8b1096)
 
 <h1>Preparing infrastructure for Active Directory in Azure</h1>
 In this lab we will be creating the infrastructure required to host an on premises deployment of Active Directory using Azure  
