@@ -159,7 +159,8 @@ While we are waiting on the Domain-Controller-1 VM to restart this would be a go
 
 ![image](https://github.com/user-attachments/assets/da25b6b7-1b01-4144-bc9a-8060aa9b5223)
 
-![image](https://github.com/user-attachments/assets/bf057c79-9a3a-4804-a6f1-e1e9102313f8)
+![418949828-bf057c79-9a3a-4804-a6f1-e1e9102313f8](https://github.com/user-attachments/assets/6745ff9e-82e9-462e-a49e-f6728c170910)
+
 
 Set the VM to have a static IP to do that we must do the following:
 
