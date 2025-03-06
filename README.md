@@ -101,7 +101,7 @@ Configure the following in the highlighted areas in the picture below:
 > [!IMPORTANT]
 > Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
 
-After you verify then "click "Review + create" and proceed to create it 
+After you verify then click "Review + create" and proceed to create it 
 
 ![5](https://github.com/user-attachments/assets/7c5bbef9-1e25-4010-853f-0874bd21fea6)
 
@@ -109,9 +109,43 @@ After you verify then "click "Review + create" and proceed to create it
 
 
 ### Create Client VM
-While we are waiting on the Domain-Controller-1 VM to restart this would be a good time to set up the client VM 
+
+Click on "Create" 
+![6](https://github.com/user-attachments/assets/e1d688df-e652-4a89-8dbe-2a963c2e5786)
+
+Configure the following in the highlighted areas in the picture below:
+
+| Selection  | Configuration|
+| ------------- | ------------- |
+| Resource group: | AD-LAB  |
+| Virtual machine name:  |  Client-1 |
+| Region  | ***Select same region as the vnet from the previous step in my case it is East US***|
+| Image:  | Windows 1O Pro, version 22H2 - x64 Gen2|
+| Size:   | Standard_D2s_v3 - 2 vcpus, 8 GiB memory |
+| Username |  LabADMIN |
+| Password  | LabPassword123 |
+
+Make sure to check the box under "Licensing" Then click "Review + create" and proceed to create it 
 
 ![7](https://github.com/user-attachments/assets/a6dea4db-440e-4203-937f-168dbe4ada9e)
+
+
+### Client VM DNS Configuration
+
+Before we create the VM it is important to understand what we will be doing to simplify this I created the diagram below
+
+**On the left/orange section:** 
+- This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM 
+
+**On the right/blue section:**
+- What we will be configuring our Domain-Controller-1 VM and Client-1 VM
+
+Do do this configuration we will need to do the following steps:
+1. Configure a static IP on  Domain-Controller-1
+2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server as well as joining it to the Active Directory Domain
+
+![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
+
 
 
 Set the VM to have a static IP to do that we must do the following:
@@ -141,25 +175,6 @@ Make sure you tunr off Domain Profile, Private profile, and Public profile
 
 ![image](https://github.com/user-attachments/assets/1a201109-b571-4b7b-bb4e-0fbd9b0a4402)
 
-
-
-
-
-#### Client VM DNS Configuration
-
-Before we create the VM it is important to understand what we will be doing to simplify this I created the diagram below
-
-**On the left/orange section:** 
-- This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM 
-
-**On the right/blue section:**
-- What we will be configuring our Domain-Controller-1 VM and Client-1 VM
-
-Do do this configuration we will need to do the following steps:
-1. Configure a static IP on  Domain-Controller-1
-2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server as well as joining it to the Active Directory Domain
-
-![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
 
 
 Connect to Client-1 
