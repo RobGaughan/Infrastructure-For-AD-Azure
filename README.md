@@ -232,6 +232,8 @@ Verify That it is Domain-Controller-1's IP address
 
 ![17](https://github.com/user-attachments/assets/14351f25-1de5-4d5e-ae45-22f8b0aa3324)
 
+Thats it!  
+We are all done creating the necessary infrastructure to support Active Directory in the next steps we will install active directory on Domain-Controller-1 and join Client-1 to the active directory domain  
 
 ##  Next steps
 
