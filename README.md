@@ -156,14 +156,23 @@ Set the VM to have a static IP to do that we must do the following:
 
 Go to Virtual Machines > Domain-Controller-1 > Networking > Network settings > NIC > IPconfig > Private IP address settings > select static and save 
 
-Make sure to take note of the static IP you set as we will be using it in the next step 
-- For me it was 10.0.0.4 
+> [!NOTE]
+> Take note of the static IP you set we will be using it in the next step  
+> For me it was 10.0.0.4 
 
 Refer to the gif below: 
 
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
 #### Setting Client-1 DNS settings:
+
+Go to Virtual Machines > Client-1 > Networking > Network settings > NIC > DNS servers
+
+For "DNS servers" > Select the "custom" box  
+Under "DNS Server" > Put 10.0.0.4 which is Domain-Controller-1's IP   
+Then click save
+
+Refer to the gif below:   
 
 ![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
 
