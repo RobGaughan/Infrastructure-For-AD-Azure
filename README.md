@@ -150,7 +150,7 @@ Do do this configuration we will need to do the following steps:
 1. Configure a static IP on  Domain-Controller-1
 2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server
 
-#### Setting Domain-Controller-1 Static IP 
+#### Setting Domain-Controller-1's IP address to static
 Set the VM to have a static IP to do that we must do the following:
 
 Go to Virtual Machines > Domain-Controller-1 > Networking > Network settings > NIC > IPconfig > Private IP address settings > select static and save 
