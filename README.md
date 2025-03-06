@@ -193,7 +193,12 @@ From here we want to take note of the public IP address we will be using this to
 
 ![18](https://github.com/user-attachments/assets/e7e60b6e-0fe5-4f7f-9fb2-396aa86e7c11)
 
-![16](https://github.com/user-attachments/assets/7efd77c6-5b2a-44fe-9dcc-bf93bf1f4f6a)
+Using Remote Desktop Connection enter the public IP you found in the last step  
+Username: LabADMIN  
+Password: LabPassword123  
+Then click "connect"
+
+![19](https://github.com/user-attachments/assets/05c136e9-4118-496f-a9ca-247459e5c0fb)
 
 ![12](https://github.com/user-attachments/assets/2c337af3-b0f8-4e01-adf4-73bdd78f52f1)
 
