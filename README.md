@@ -137,10 +137,12 @@ In order for Active Directory to work properly and join the domain we must confi
 
 #### Description of diagram
 **On the left/orange section:** 
-- This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM 
+- This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM
+- It Defaults to using the Vnet's Virtual DNS server
 
 **On the right/blue section:**
 - What we will be configuring our Domain-Controller-1 VM and Client-1 VM
+- We will be configuring Client-1 to use Domain-Controller-1 as its DNS server instead
 
 ![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
 
