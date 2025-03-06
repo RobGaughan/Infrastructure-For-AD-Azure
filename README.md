@@ -68,23 +68,22 @@ Then we will create a client virtual machine that will act as an end user.
 ![Pasted image 20250228195539](https://github.com/user-attachments/assets/8d6986e1-686c-4a5f-909c-57191158e23c)
 
 Configure the following in the highlighted areas in the picture below:
-- resource group:
-   - Select the "AD-Hybrid-lab" group
-- Virtual machine name:
-    - Name it "Domain-Controller-1"
- - Region
-    - ***Select same region as the vnet from the previous step in my case it is East US***
-- Image:
-   - select "Windows Server 2022 Datacenter: Azure Edition - x64 Gen2"
-- Size: 
-   - select "Standard_D4s_v3 - 4 vcpus, 16 GIB memory"
-- Username and password
-   - For lab purposes I chose Username: LabADMIN Password: LabPassword123
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| resource group: | AD-LAB  |
+| Virtual machine name:  |  Domain-Controller-1 |
+| Region  | ***Select same region as the vnet from the previous step in my case it is East US***|
+| Image:  | Windows Server 2022 Datacenter: Azure Edition - x64 Gen2 |
+| Size:   | Standard_D4s_v3 - 4 vcpus, 16 GIB memory |
+| Username |  LabADMIN |
+| password  | LabPassword123 |
 
 > [!IMPORTANT]
 > Make sure the region matches the Vnet's region
 
-![image](https://github.com/user-attachments/assets/eb11886e-5833-4df9-86cd-c0c0dbf8724f)
+![image](https://github.com/user-attachments/assets/b0d267a6-be3f-4bfd-af95-945e443bd588)
+
 
 
 > [!IMPORTANT]
