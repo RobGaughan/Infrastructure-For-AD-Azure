@@ -95,7 +95,8 @@ Configure the following in the highlighted areas in the picture below:
 > [!IMPORTANT]
 > Make sure the region matches the Vnet's region
 
-![4](https://github.com/user-attachments/assets/75b7aecc-d039-4e5f-9856-333574230cc6)
+![4](https://github.com/user-attachments/assets/51c1e296-2b54-4217-84b2-8cf238a79400)
+
 
 > [!IMPORTANT]
 > Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
