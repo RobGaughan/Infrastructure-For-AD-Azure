@@ -156,6 +156,9 @@ Set the VM to have a static IP to do that we must do the following:
 
 Go to Virtual Machines > Domain-Controller-1 > Networking > Network settings > NIC > IPconfig > Private IP address settings > select static and save 
 
+Make sure to take note of the static IP you set as we will be using it in the next step 
+- For me it was 10.0.0.4 
+
 Refer to the gif below: 
 
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
