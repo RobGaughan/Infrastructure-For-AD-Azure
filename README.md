@@ -97,7 +97,7 @@ Configure the following in the highlighted areas in the picture below:
 
 
 > [!IMPORTANT]
-> Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
+> Navigate to the "Networking" tab and Verify that AD-LAB-VNET is selected for virtual network
 
 After you verify then click "Review + create" and proceed to create it 
 
