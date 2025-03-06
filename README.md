@@ -217,8 +217,10 @@ Make sure you turn off Domain Profile, Private profile, and Public profile
 Connect to Client-1 
 
 Find client-1 public IP address:  
+Virtual Machines > Client-1 > Networking > Network settings 
 
-![image](https://github.com/user-attachments/assets/fac010a6-f9c2-40b7-af21-3e2544dd1d22)
+![image](https://github.com/user-attachments/assets/35965722-d05f-4c90-be6c-a737d71cd161)
+
 
 login using Remote Desktop Connection
 
