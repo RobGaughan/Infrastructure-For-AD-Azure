@@ -49,11 +49,9 @@ Inside the subnet we will create our VMs Domain-Controller-1 and Client VM
 
 1. Create an Azure Virtual Network (VNet)
 2. Create a Windows Server VM
-3. Install Active Directory
-4. Promote Windows Server VM to a domain controller
-6. Create Client VM
-7. Configure DNS settings
-8. Verify DNS settings on Client-1  
+3. Create Client VM
+4. Configure DNS settings
+5. Verify DNS settings on Client-1  
 
 
 <h2>Deployment and Configuration Steps</h2>
