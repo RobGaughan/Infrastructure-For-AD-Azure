@@ -56,7 +56,7 @@ Inside the subnet we will create our VMs Domain-Controller-1 and Client VM
 
 <h2>Deployment and Configuration Steps</h2>
 
-### 1. Create an Azure Virtual Network (VNet)
+### Create an Azure Virtual Network (VNet)
 - Navigate to Virtual Networks on Azure and click "create" as pictured below
 
   
@@ -73,7 +73,7 @@ Inside the subnet we will create our VMs Domain-Controller-1 and Client VM
 
 ![2](https://github.com/user-attachments/assets/a6a12c6a-eddb-4763-ac38-9800de36d89a)
 
-### 2. Deploy a Windows Server VM and place it in the Vnet
+### Deploy a Windows Server VM and place it in the Vnet
 - Navigate to the Virtual machines page and click on create
   
 ![Pasted image 20250228195539](https://github.com/user-attachments/assets/8d6986e1-686c-4a5f-909c-57191158e23c)
