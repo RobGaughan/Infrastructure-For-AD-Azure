@@ -200,6 +200,9 @@ Then click "connect"
 
 ![19](https://github.com/user-attachments/assets/05c136e9-4118-496f-a9ca-247459e5c0fb)
 
+One we are in the VM press: Windows key + R and enter "wf.msc" to bring up firewall settings
+![11](https://github.com/user-attachments/assets/e918b547-4748-4183-bd26-58c98ee4ef41)
+
 ![12](https://github.com/user-attachments/assets/2c337af3-b0f8-4e01-adf4-73bdd78f52f1)
 
 
