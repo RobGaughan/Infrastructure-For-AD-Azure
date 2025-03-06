@@ -32,7 +32,7 @@ Then we will create a client virtual machine that will act as an end user.
 
 When working with Azure it is important to understand the terminology used in our lab :
 
-A Tenant is an Organization, It is created when an organization or single entity create an azure account
+A Tenant is an Organization, It is created when an organization or single entity creates an azure account
 
 Inside The Tenant is the Subscription which is the payment for the services azure provides it is also useful for resource organization as well as placing quotas or limits for certain services.
 
