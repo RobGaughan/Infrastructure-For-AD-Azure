@@ -146,10 +146,12 @@ In order for Active Directory to work properly and join the domain we must confi
 
 ![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
 
+
 Do do this configuration we will need to do the following steps:
 1. Configure a static IP on  Domain-Controller-1
 2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server
 
+#### Setting Domain-Controller-1 Static IP 
 Set the VM to have a static IP to do that we must do the following:
 
 Go to Virtual Machines > Domain-Controller-1 > Networking > Network settings > NIC > IPconfig > Private IP address settings > select static and save 
@@ -158,7 +160,7 @@ Refer to the gif below:
 
 ![ezgif-872af4bccc6f3e](https://github.com/user-attachments/assets/8962c61e-0581-4d65-887c-30373dcba181)
 
-setting Client-1 DNS settings:
+#### Setting Client-1 DNS settings:
 
 ![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
 
