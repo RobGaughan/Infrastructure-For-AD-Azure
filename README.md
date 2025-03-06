@@ -39,7 +39,7 @@ Inside The Tenant is the Subscription which is the payment for the services azur
 Inside The Subscription we will create a resource group which functions like a folder in azure as it groups multiple resources together
 
 
-Inside the Resource group we will create a VNET of (10.0.0.0/16)
+Inside the Resource group we will create a VNET of 10.0.0.0/16
 
 Inside the Vnet we will create a subnet of 10.0.0.0/24
  
