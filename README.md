@@ -13,11 +13,6 @@ We will install nessary Virtual networks and Virtual machines as well as install
 Then we will create a client virtual machine that will act as an end user.  
 
 
-
-<h2>Video Demonstration</h2>
-
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
