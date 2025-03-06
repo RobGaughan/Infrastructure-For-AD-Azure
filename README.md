@@ -24,11 +24,27 @@ Then we will create a client virtual machine that will act as an end user.
 
 <h2>Operating Systems Used </h2>
 
+<h2>Azure Terminology</h2>
+
+![image](https://github.com/user-attachments/assets/490cd2e5-c6c2-48a4-b867-2a641fff6005)
+
+When working with Azure it is important to understand the terminology used in our lab :
+
+A Tenant is an Organization, It is created when an organization or single entity create an azure account
+
+Inside The Tenant is the Subscription which is the payment for the services azure provides it is also useful for resource organization as well as placing quotas or limits for certain services.
+
+Inside The Subscription we will create a resource group which functions like a folder in azure as it groups multiple resources together
+
+
+Inside the Resource group we will create a VNET of (10.0.0.0/16)
+
+Inside the Vnet we will create a subnet of 10.0.0.0/24
+ 
+Inside the subnet we will create our VMs Domain-Controller-1 and Client VM 
 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
-
-![image](https://github.com/user-attachments/assets/9e656ee5-e745-4ed0-9934-9088ce27b3cc)
 
 1. Create an Azure Virtual Network (VNet)
 2. Create a Windows Server VM
