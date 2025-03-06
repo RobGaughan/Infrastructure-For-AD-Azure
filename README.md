@@ -118,7 +118,7 @@ Configure the following in the highlighted areas in the picture below:
 | Resource group: | AD-LAB  |
 | Virtual machine name:  |  Client-1 |
 | Region  | ***Select same region as the vnet from the previous step in my case it is East US***|
-| Image:  | Windows 1O Pro, version 22H2 - x64 Gen2|
+| Image:  | Windows 10 Pro, version 22H2 - x64 Gen2|
 | Size:   | Standard_D2s_v3 - 2 vcpus, 8 GiB memory |
 | Username |  LabADMIN |
 | Password  | LabPassword123 |
