@@ -128,7 +128,7 @@ Make sure to check the box under "Licensing" Then click "Review + create" and pr
 ![7](https://github.com/user-attachments/assets/a6dea4db-440e-4203-937f-168dbe4ada9e)
 
 
-### Client VM DNS Configuration
+### DNS Configuration
 
 In order for Active Directory to work properly and join the domain we must configure Client-1 to use Domain-Controller-1 as its DNS server
 
