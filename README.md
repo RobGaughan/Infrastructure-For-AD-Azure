@@ -75,7 +75,7 @@ Configure the following in the highlighted areas in the picture below:
 | Virtual machine name:  |  Domain-Controller-1 |
 | Region  | ***Select same region as the vnet from the previous step in my case it is East US***|
 | Image:  | Windows Server 2022 Datacenter: Azure Edition - x64 Gen2 |
-| Size:   | Standard_D4s_v3 - 4 vcpus, 16 GIB memory |
+| Size:   | Standard_D2s_v3 - 2 vcpus, 8 GiB memory |
 | Username |  LabADMIN |
 | password  | LabPassword123 |
 
