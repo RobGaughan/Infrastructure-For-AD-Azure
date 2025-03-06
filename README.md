@@ -184,7 +184,8 @@ Restart VM for DNS settings to take hold:
 
 ### Disable firewall on Domain-Controller-1
 
-For lab purposes we will be disabling the firewall on Domain-Controller-1 for the DNS settings to take hold a bit easier 
+For lab purposes we will be disabling the firewall on Domain-Controller-1 for the DNS settings to take hold a bit easier  
+***Keep in mind this is for lab purposes and should not be done on live a enterprise enviroment*** 
 
 #### Connect to Domain-Controller-1
 Virtual Machines > Domain-Controller-1 > Networking > Network settings 
