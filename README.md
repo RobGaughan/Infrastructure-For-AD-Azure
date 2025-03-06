@@ -19,10 +19,14 @@ Then we will create a client virtual machine that will act as an end user.
 
 
 <h2>Environments and Technologies Used</h2>
-
-
+- Microsoft Azure
+- Virtual Machines
+- Virtual Networking
+- Active Directory 
 
 <h2>Operating Systems Used </h2>
+- Windows Server 2022 Datacenter: Azure Edition - x64 Gen2
+- Windows 10 Pro, version 22H2 - x64 Gen2
 
 <h2>Azure Terminology</h2>
 
