@@ -26,7 +26,8 @@ Then we will create a client virtual machine that will act as an end user.
 
 <h2>Azure Terminology</h2>
 
-![image](https://github.com/user-attachments/assets/490cd2e5-c6c2-48a4-b867-2a641fff6005)
+![0](https://github.com/user-attachments/assets/66ceaafe-ba90-49ab-b6f4-e61ef6482e33)
+
 
 When working with Azure it is important to understand the terminology used in our lab :
 
@@ -63,20 +64,16 @@ Inside the subnet we will create our VMs Domain-Controller-1 and Client VM
   
 ![image](https://github.com/user-attachments/assets/32ef39ea-8bb9-493d-9e6d-512f20bc51af)
 
- 
-- Click "Create new" and create a new resource group called "AD-Hybrid-lab" <br>
+- Click "Create new" and create a new resource group called "AD-LAB" <br>
 
-- Name the Vnet "AD-Hybrid-VNET"
+- Name the Vnet "AD-LAB-VNET"
 
 - Click "Review + create" and then click create again on the following screen to create the VNet <br>
 
 > [!NOTE]
 > Take note *of your region in this case I'm keeping it East US we will reference this in the next steps*
 
-![image](https://github.com/user-attachments/assets/71ed9a7e-fa7e-4c61-9dc4-38bdade12583)
-
-
-
+![2](https://github.com/user-attachments/assets/a6a12c6a-eddb-4763-ac38-9800de36d89a)
 
 ### 2. Deploy a Windows Server VM and place it in the Vnet
 - Navigate to the Virtual machines page and click on create
@@ -87,7 +84,7 @@ Configure the following in the highlighted areas in the picture below:
 
 | Selection  | Configuration|
 | ------------- | ------------- |
-| resource group: | AD-LAB  |
+| Resource group: | AD-LAB  |
 | Virtual machine name:  |  Domain-Controller-1 |
 | Region  | ***Select same region as the vnet from the previous step in my case it is East US***|
 | Image:  | Windows Server 2022 Datacenter: Azure Edition - x64 Gen2 |
@@ -98,19 +95,14 @@ Configure the following in the highlighted areas in the picture below:
 > [!IMPORTANT]
 > Make sure the region matches the Vnet's region
 
-![image](https://github.com/user-attachments/assets/b0d267a6-be3f-4bfd-af95-945e443bd588)
-
-
+![4](https://github.com/user-attachments/assets/75b7aecc-d039-4e5f-9856-333574230cc6)
 
 > [!IMPORTANT]
 > Navigate to the "Networking" tab and Verify that AD-Hybrid-VNET is selected for virtual network
 
 After you verify then "click "Review + create" and proceed to create it 
 
-![image](https://github.com/user-attachments/assets/f39c9c10-9492-4f8b-8b9c-6dee3e2e3825)
-
-
-
+![5](https://github.com/user-attachments/assets/7c5bbef9-1e25-4010-853f-0874bd21fea6)
 
 
 
@@ -118,9 +110,7 @@ After you verify then "click "Review + create" and proceed to create it
 ### Create Client VM
 While we are waiting on the Domain-Controller-1 VM to restart this would be a good time to set up the client VM 
 
-![image](https://github.com/user-attachments/assets/da25b6b7-1b01-4144-bc9a-8060aa9b5223)
-
-![418949828-bf057c79-9a3a-4804-a6f1-e1e9102313f8](https://github.com/user-attachments/assets/6745ff9e-82e9-462e-a49e-f6728c170910)
+![7](https://github.com/user-attachments/assets/a6dea4db-440e-4203-937f-168dbe4ada9e)
 
 
 Set the VM to have a static IP to do that we must do the following:
@@ -143,7 +133,8 @@ Disable firewall on Domain-Controller-1
 
 ![image](https://github.com/user-attachments/assets/797d96bb-6f3c-4394-a15a-c6c13d70d976)
 
-![image](https://github.com/user-attachments/assets/a56da034-d9bd-4e29-b3aa-54a9d1d110c9)
+![12](https://github.com/user-attachments/assets/2c337af3-b0f8-4e01-adf4-73bdd78f52f1)
+
 
 Make sure you tunr off Domain Profile, Private profile, and Public profile
 
@@ -171,12 +162,14 @@ Do do this configuration we will need to do the following steps:
 
 
 Connect to Client-1 
+
 ![image](https://github.com/user-attachments/assets/fac010a6-f9c2-40b7-af21-3e2544dd1d22)
 
 login using RDP 
+
 ![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
 
-![image](https://github.com/user-attachments/assets/7917b1a7-e7cb-4396-801c-b41e39b9c58d)
+![17](https://github.com/user-attachments/assets/14351f25-1de5-4d5e-ae45-22f8b0aa3324)
 
 
 
