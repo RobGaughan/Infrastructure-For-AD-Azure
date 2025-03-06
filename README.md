@@ -132,25 +132,25 @@ Make sure to check the box under "Licensing" Then click "Review + create" and pr
 
 ### Client VM DNS Configuration
 
-Before we create the VM it is important to understand what we will be doing to simplify this I created the diagram below
+In order for Active Directory to work properly and join the domain we must configure Client-1 to use Domain-Controller-1 as its DNS server
 
+
+#### Description of diagram
 **On the left/orange section:** 
 - This is what Azure deaults to when we create the client VM and when we created the Domain-Controller-1 VM 
 
 **On the right/blue section:**
 - What we will be configuring our Domain-Controller-1 VM and Client-1 VM
 
-Do do this configuration we will need to do the following steps:
-1. Configure a static IP on  Domain-Controller-1
-2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server as well as joining it to the Active Directory Domain
-
 ![image](https://github.com/user-attachments/assets/dc6edbc0-9a9f-4a89-bcd1-3c5e3be7d484)
 
-
+Do do this configuration we will need to do the following steps:
+1. Configure a static IP on  Domain-Controller-1
+2. Then we must tell Client-1 to use Domain-Controller-1 as its DNS server
 
 Set the VM to have a static IP to do that we must do the following:
 
-Go to Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings --> NIC --> IPconfig --> Private IP address settings --> select static and save 
+Go to Virtual Machines > Domain-Controller-1 > Networking > Network settings > NIC > IPconfig > Private IP address settings > select static and save 
 
 Refer to the gif below: 
 
