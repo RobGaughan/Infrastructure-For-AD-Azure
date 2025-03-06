@@ -204,22 +204,25 @@ One we are in the VM press: Windows key + R and enter "wf.msc" to bring up firew
 
 ![11](https://github.com/user-attachments/assets/e918b547-4748-4183-bd26-58c98ee4ef41)
 
+Next Click " Windows Defender Firewall Properties"
+
 ![12](https://github.com/user-attachments/assets/2c337af3-b0f8-4e01-adf4-73bdd78f52f1)
 
-
-Make sure you tunr off Domain Profile, Private profile, and Public profile
+Turn off highlighted section  
+Make sure you turn off Domain Profile, Private profile, and Public profile
 
 ![image](https://github.com/user-attachments/assets/1a201109-b571-4b7b-bb4e-0fbd9b0a4402)
 
-
-
+### Verifiying Client-1 DNS settings
 Connect to Client-1 
 
+Find client-1 public IP address:
 ![image](https://github.com/user-attachments/assets/fac010a6-f9c2-40b7-af21-3e2544dd1d22)
 
-login using RDP 
+login using Remote Desktop Connection
 
 ![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
+
 
 ![17](https://github.com/user-attachments/assets/14351f25-1de5-4d5e-ae45-22f8b0aa3324)
 
