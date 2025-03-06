@@ -216,7 +216,8 @@ Make sure you turn off Domain Profile, Private profile, and Public profile
 ### Verifiying Client-1 DNS settings
 Connect to Client-1 
 
-Find client-1 public IP address:
+Find client-1 public IP address:  
+
 ![image](https://github.com/user-attachments/assets/fac010a6-f9c2-40b7-af21-3e2544dd1d22)
 
 login using Remote Desktop Connection
