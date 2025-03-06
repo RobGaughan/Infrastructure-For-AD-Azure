@@ -176,11 +176,12 @@ Refer to the gif below:
 
 ![cropped-client-1-dns-settings](https://github.com/user-attachments/assets/d0d6d329-9cf9-4cd5-96bd-a7f4700afc86)
 
-Restart VM for DNS settings to apply
+Restart VM for DNS settings to take hold:
 
-![image](https://github.com/user-attachments/assets/1a4d4a8c-07cb-4020-87c3-e1a3754cb1b9)
+![10](https://github.com/user-attachments/assets/13d97191-af38-4ea7-a1d4-3724531bf9e6)
 
-Disable firewall on Domain-Controller-1
+
+#### Disable firewall on Domain-Controller-1
 
 ![image](https://github.com/user-attachments/assets/797d96bb-6f3c-4394-a15a-c6c13d70d976)
 
