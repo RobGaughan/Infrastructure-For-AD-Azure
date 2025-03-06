@@ -179,9 +179,21 @@ Restart VM for DNS settings to take hold:
 ![10](https://github.com/user-attachments/assets/13d97191-af38-4ea7-a1d4-3724531bf9e6)
 
 
-#### Disable firewall on Domain-Controller-1
 
-![image](https://github.com/user-attachments/assets/797d96bb-6f3c-4394-a15a-c6c13d70d976)
+
+
+### Disable firewall on Domain-Controller-1
+
+For lab purposes we will be disabling the firewall on Domain-Controller-1 for the DNS settings to take hold a bit easier 
+
+#### Connect to Domain-Controller-1
+Virtual Machines > Domain-Controller-1 > Networking > Network settings 
+
+From here we want to take note of the public IP address we will be using this to remote into Domain-Controller-1
+
+![18](https://github.com/user-attachments/assets/e7e60b6e-0fe5-4f7f-9fb2-396aa86e7c11)
+
+![16](https://github.com/user-attachments/assets/7efd77c6-5b2a-44fe-9dcc-bf93bf1f4f6a)
 
 ![12](https://github.com/user-attachments/assets/2c337af3-b0f8-4e01-adf4-73bdd78f52f1)
 
