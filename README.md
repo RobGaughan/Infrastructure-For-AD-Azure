@@ -227,10 +227,15 @@ login using Remote Desktop Connection
 ![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
 
 
+Once inside Client-1 VM open PowerShell and use command "ipconfig /all" to display its DNS server  
+Verify That it is Domain-Controller-1's IP address
+
 ![17](https://github.com/user-attachments/assets/14351f25-1de5-4d5e-ae45-22f8b0aa3324)
 
 
+##  Next steps
 
+[Deploying Active Directory in Azure](https://github.com/RobGaughan/Deploying-Active-Directory-in-Azure)
 
 
 
