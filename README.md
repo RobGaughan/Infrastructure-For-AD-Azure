@@ -8,11 +8,6 @@
 <h1>Preparing infrastructure for Active Directory in Azure</h1>
 In this lab we will be creating the infrastructure required to host an on premises deployment of Active Directory using Azure  
 
-We will install nessary Virtual networks and Virtual machines as well as installing Active directory. 
-
-Then we will create a client virtual machine that will act as an end user.  
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
