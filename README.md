@@ -13,7 +13,7 @@ In this lab we will be creating the infrastructure required to host an on premis
 - Microsoft Azure
 - Virtual Machines
 - Virtual Networking
-- Active Directory 
+- DNS
 
 <h2>Operating Systems Used </h2>
 
