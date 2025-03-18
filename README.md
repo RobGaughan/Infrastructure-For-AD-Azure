@@ -25,7 +25,7 @@ In this lab we will be creating the infrastructure required to host an on premis
 ![0](https://github.com/user-attachments/assets/66ceaafe-ba90-49ab-b6f4-e61ef6482e33)
 
 
-When working with Azure it is important to understand the terminology used in our lab :
+When working with Azure it is important to understand the terminology used in our lab:
 
 A Tenant is an Organization, It is created when an organization or single entity creates an azure account
 
